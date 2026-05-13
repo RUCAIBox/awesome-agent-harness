@@ -13,7 +13,7 @@
 </p>
 
 A curated list of papers and resources on agent systems with harness engineering, based on our survey:<br>
-[<u>"Agent Systems with Harness Engineering: A Systematic Survey (coming soon)"</u>](#7-citation).
+[<u>"Agent Systems with Harness Engineering: A Systematic Survey (coming soon)"</u>](#citation).
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ A curated list of papers and resources on agent systems with harness engineering
 - [4. Harness Capacity and Evaluation](#4-harness-capacity-and-evaluation)
 - [5. Future Directions](#5-future-directions)
 - [6. Representative Benchmarks by Task Domain](#6-representative-benchmarks-by-task-domain)
-- [Citation](#7-citation)
+- [Citation](#citation)
 
 ## 1. Foundations of Harness Engineering
 1. AI runtime infrastructure. [[Paper]](https://arxiv.org/abs/2603.00495) `arXiv 2026`
