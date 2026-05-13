@@ -496,7 +496,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 
 ## 4. Harness Capacity and Evaluation
 
-This section summarizes the major evaluation domains for agentic harness engineering. For the complete benchmark index, see [Representative Benchmarks by Task Domain](#7-representative-benchmarks-by-task-domain).
+This section summarizes the major evaluation domains for agentic harness engineering. For the complete benchmark index, see [Representative Benchmarks by Task Domain](#6-representative-benchmarks-by-task-domain).
 
 - **Deep Research**: browsing, broad search, report generation, and survey-style evaluation.
 - **Software Engineering**: repository-level tasks, issue resolution, and long-horizon engineering workflows.
