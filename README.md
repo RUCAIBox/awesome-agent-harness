@@ -1,4 +1,4 @@
-# Agent Systems with Harness Engineering
+# Agent Systems with Harness Engineering: A Systematic Survey
 
 <p align="center">
   <strong>A Curated Reading List and Structured Roadmap</strong>
@@ -11,7 +11,7 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>
 </p>
 
-A curated collection of papers and resources related to **Agent Systems with Harness Engineering**. 
+A curated collection of papers and resources related to **Agent Systems with Harness Engineering: A Systematic Survey**.
 The organization of this repository refers to our survey [<u>"Agent Systems with Harness Engineering: A Systematic Survey"</u>](#8-citation).
 
 ## Table of Contents
