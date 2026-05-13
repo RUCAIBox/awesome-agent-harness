@@ -42,7 +42,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629.pdf) [[Code]](https://github.com/ysymyth/ReAct) `ICLR 2023`
 1. Toolformer: Language Models Can Teach Themselves to Use Tools. [[Paper]](https://arxiv.org/pdf/2302.04761.pdf) `NeurIPS 2023`
 1. Tool learning with large language models: a survey. [[Paper]](https://doi.org/10.1007/s11704-024-40678-2) `FCS 2025`
-1. AIOS: LLM Agent Operating System. `Second Conference on Language Mode 2025`
+1. AIOS: LLM Agent Operating System. [[Paper]](https://arxiv.org/abs/2403.16971) `COLM 2025`
 #### 1.2.2. Workflow Infrastructure: Orchestrating Persistent Workspaces
 1. SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. [[Paper]](https://arxiv.org/pdf/2405.15793.pdf) [[Code]](https://github.com/princeton-nlp/SWE-agent) `NeurIPS 2024`
 1. Engineering Pitfalls in AI Coding Tools: An Empirical Study of Bugs in Claude Code, Codex, and Gemini CLI. [[Paper]](https://arxiv.org/abs/2603.20847) `2026`
@@ -50,7 +50,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training. [[Paper]](https://arxiv.org/abs/2602.03411) `arXiv 2026`
 1. VeRO: An Evaluation Harness for Agents to Optimize Agents. [[Paper]](https://arxiv.org/abs/2602.22480) `arXiv 2026`
 1. OpenHands: An Open Platform for AI Software Developers as Generalist Agents. [[Paper]](https://openreview.net/forum?id=OJd3ayDDoF) `ICLR 2025`
-1. Claude Code Overview. `2026`
+1. Claude Code Overview. [[Docs]](https://docs.claude.com/en/docs/claude-code/overview) `2026`
 #### 1.2.3. Persistence Architecture: Sustaining User-Centric Continuity
 1. Toward Personalized LLM-Powered Agents: Foundations, Evaluation, and Future Directions. [[Paper]](https://arxiv.org/abs/2602.22680) `arXiv 2026`
 1. Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles. [[Paper]](https://doi.org/10.48550/arXiv.2510.07925) `arXiv 2025`
@@ -61,12 +61,12 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 ### 1.3. Connections with Related Concepts
 ##### 1.3.1. Agent Framework
 1. The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents. [[Paper]](https://doi.org/10.48550/arXiv.2511.03690) `arXiv 2025`
-1. AIOS: LLM Agent Operating System. `Second Conference on Language Mode 2025`
+1. AIOS: LLM Agent Operating System. [[Paper]](https://arxiv.org/abs/2403.16971) `COLM 2025`
 ##### 1.3.2. Other Related Concepts
 1. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. [[Paper]](https://arxiv.org/pdf/2201.11903.pdf) [[Code]](https://github.com/google-research/url-nlp/tree/main/mgsm) `NeurIPS 2022`
 1. Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models. [[Paper]](https://doi.org/10.18653/v1/2023.acl-long.147) `ACL 2023`
 1. Unleashing the potential of prompt engineering for large language models. [[Paper]](https://doi.org/10.1016/j.patter.2025.101260) `Patterns 2025`
-1. Tool learning with language models: a comprehensive survey of methods, pipelines, and benchmarks. `Vicinagearth 2025`
+1. Tool learning with language models: a comprehensive survey of methods, pipelines, and benchmarks. [[Paper]](https://link.springer.com/article/10.1007/s44336-025-00024-x) `Vicinagearth 2025`
 1. The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration. [[Paper]](https://arxiv.org/abs/2603.22862) `2026`
 1. OpenHands: An Open Platform for AI Software Developers as Generalist Agents. [[Paper]](https://openreview.net/forum?id=OJd3ayDDoF) `ICLR 2025`
 1. Toward Personalized LLM-Powered Agents: Foundations, Evaluation, and Future Directions. [[Paper]](https://arxiv.org/abs/2602.22680) `arXiv 2026`
@@ -87,7 +87,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents. [[Paper]](https://openreview.net/forum?id=oWdzUpOlkX) `ICLR 2025`
 1. GPT-4V(ision) is a Generalist Web Agent, if Grounded. [[Paper]](https://proceedings.mlr.press/v235/zheng24e.html) `ICML 2024`
 1. SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents. [[Paper]](https://aclanthology.org/2024.acl-long.505/) `ACL 2024`
-1. VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents. `NeurIPS 2025`
+1. VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents. [[Paper]](https://arxiv.org/abs/2510.16907) `NeurIPS 2025`
 1. DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2406.11896) [[Code]](https://github.com/DigiRL-agent/digirl) `NeurIPS 2024`
 1. GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents. [[Paper]](https://arxiv.org/pdf/2506.03143v1.pdf) [[Code]](https://github.com/microsoft/GUI-Actor) `NeurIPS 2025`
 ##### 2.1.1.2. State Representation
@@ -155,7 +155,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. SGMem: Sentence Graph Memory for Long-Term Conversational Agents. [[Paper]](https://doi.org/10.48550/arXiv.2509.21212) `arXiv 2025`
 1. Zep: A Temporal Knowledge Graph Architecture for Agent Memory. [[Paper]](https://doi.org/10.48550/arXiv.2501.13956) `arXiv 2025`
 1. Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[Paper]](https://doi.org/10.48550/arXiv.2601.01885) `arXiv 2026`
-1. FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding. `CVPR 2026`
+1. FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding. [[Paper]](https://arxiv.org/abs/2603.02096) `CVPR 2026`
 1. Managing Context on the Claude Developer Platform. [[Blog]](https://www.anthropic.com/news/context-management) `2025`
 #### 2.2.2. Long-term Memory
 1. Memory Overview. [[Docs]](https://docs.langchain.com/oss/python/concepts/memory) `2026`
@@ -242,7 +242,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks. [[Paper]](https://arxiv.org/pdf/2503.04538.pdf) `ICLR 2025`
 1. SkillFlow: Scalable and Efficient Agent Skill Retrieval System. [[Paper]](https://arxiv.org/abs/2504.06188) `2026`
 1. Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills. [[Paper]](https://arxiv.org/abs/2604.05333) `arXiv 2026`
-1. IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents. `Proceedings of the 25th Internatio 2026`
+1. IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents. [[Paper]](https://arxiv.org/abs/2602.17049) `arXiv 2026`
 1. WebXSkill: Skill Learning for Autonomous Web Agents. [[Paper]](https://arxiv.org/abs/2604.13318) `arXiv 2026`
 1. EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle. [[Paper]](https://arxiv.org/abs/2510.16079) [[Code]](https://github.com/Edaizi/EvolveR) `arXiv 2025`
 1. SkillRouter: Skill Routing for LLM Agents at Scale. [[Paper]](https://arxiv.org/abs/2603.22455) `arXiv 2026`
@@ -285,7 +285,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 ##### 2.4.2.1. Debate-based Methods
 1. MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [[Paper]](https://openreview.net/pdf?id=VtmBAGCN7o) [[Code]](https://github.com/geekan/MetaGPT) `ICLR 2024`
 1. RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. [[Paper]](https://aclanthology.org/2024.findings-acl.878.pdf) [[Code]](https://github.com/InteractiveNLP-Team/RoleLLM-public) `ACL 2024`
-1. Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning. `ACL 2025`
+1. Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning. [[Paper]](https://arxiv.org/abs/2502.11799) `ACL 2025`
 1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. [[Paper]](https://arxiv.org/abs/2305.19118) [[Code]](https://github.com/Skytliang/Multi-Agents-Debate) `ACL 2024`
 1. Debate-to-Write: A Persona-Driven Multi-Agent Framework for Diverse Argument Generation. [[Paper]](https://aclanthology.org/2025.coling-main.314.pdf) [[Code]](https://github.com/Derekkk/LLM4ArgGen) `ACL 2025`
 1. Player-Coach Teamwork: Multi-agent Collaboration for Improving LLM Reasoning. [[Paper]](https://openreview.net/pdf?id=qNHbqlRBel) `NeurIPS 2025`
@@ -309,7 +309,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Blog]](https://claude.com/blog/multi-agent-coordination-patterns) `2026`
 1. How We Built Our Multi-Agent Research System. [[Blog]](https://www.anthropic.com/engineering/multi-agent-research-system) `2025`
 ### 2.5. A Comparative View of Representative Agent Systems
-1. Claude Code Overview. `2026`
+1. Claude Code Overview. [[Docs]](https://docs.claude.com/en/docs/claude-code/overview) `2026`
 1. Introducing OpenClaw. [[Blog]](https://openclaw.ai/blog/introducing-openclaw) `2026`
 1. Hermes Agent: The Agent That Grows With You. [[Website]](https://hermes-agent.nousresearch.com/) `2026`
 
@@ -323,32 +323,32 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 #### 3.1.1. Context Design
 ##### 3.1.1.1. Prompt Engineering
 1. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. [[Paper]](https://arxiv.org/pdf/2201.11903.pdf) [[Code]](https://github.com/google-research/url-nlp/tree/main/mgsm) `NeurIPS 2022`
-1. Large Language Models are Zero-Shot Reasoners. `NeurIPS 2022`
+1. Large Language Models are Zero-Shot Reasoners. [[Paper]](https://arxiv.org/abs/2205.11916) `NeurIPS 2022`
 1. Tree of Thoughts: Deliberate Problem Solving with Large Language Models. [[Paper]](https://arxiv.org/pdf/2305.10601.pdf) [[Code]](https://github.com/princeton-nlp/tree-of-thought-llm) `NeurIPS 2023`
 1. Graph of Thoughts: Solving Elaborate Problems with Large Language Models. [[Paper]](https://arxiv.org/pdf/2308.09687.pdf) [[Code]](https://github.com/spcl/graph-of-thoughts) `AAAI 2024`
 1. Role play with large language models. [[Paper]](https://www.nature.com/articles/s41586-023-06647-8.pdf) `Nat. 2023`
 1. CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society. [[Paper]](https://proceedings.neurips.cc/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html) [[Code]](https://github.com/camel-ai/camel) `NeurIPS 2023`
 1. Generative Agents: Interactive Simulacra of Human Behavior. [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3586183.3606763) [[Code]](https://github.com/joonspk-research/generative_agents) `Proceedings of the 36th Annual ACM 2023`
 1. CoSER: A Comprehensive Literary Dataset and Framework for Training and Evaluating LLM Role-Playing and Persona Simulation. [[Paper]](https://arxiv.org/pdf/2502.09082) [[Code]](https://github.com/Neph0s/CoSER) `ICML 2025`
-1. Large Language Models are Human-Level Prompt Engineers. `ICLR 2023`
-1. Making Pre-trained Language Models Better Few-shot Learners. `ACL 2021`
+1. Large Language Models Are Human-Level Prompt Engineers. [[Paper]](https://arxiv.org/abs/2211.01910) `ICLR 2023`
+1. Making Pre-trained Language Models Better Few-shot Learners. [[Paper]](https://arxiv.org/abs/2012.15723) `ACL 2021`
 1. Self-Refine: Iterative Refinement with Self-Feedback. [[Paper]](https://arxiv.org/abs/2303.17651) [[Code]](https://github.com/madaan/self-refine) `NeurIPS 2023`
-1. Promptbreeder: Self-Referential Self-Improvement via Prompt Evolution. `ICML 2024`
+1. Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution. [[Paper]](https://arxiv.org/abs/2309.16797) `ICML 2024`
 ##### 3.1.1.2. Context Retrieval
-1. Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions. `ACL 2023`
+1. Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions. [[Paper]](https://arxiv.org/abs/2212.10509) `ACL 2023`
 1. Active Retrieval Augmented Generation. [[Paper]](https://aclanthology.org/2023.emnlp-main.495.pdf) [[Code]](https://github.com/jzbjyb/FLARE) `ACL 2023`
 1. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2024/file/25f7be9694d7b32d5cc670927b8091e1-Paper-Conference.pdf) [[Code]](https://selfrag.github.io/) `ICLR 2024`
 1. Deeprag: Thinking to retrieve step by step for large language models. [[Paper]](https://arxiv.org/pdf/2502.01142.pdf) [[Code]](https://github.com/gxy-gxy/DeepRAG) `arXiv 2025`
-1. HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models. `NeurIPS 2024`
-1. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph. `ICLR 2024`
-1. StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization. `ICLR 2025`
+1. HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models. [[Paper]](https://arxiv.org/abs/2405.14831) `NeurIPS 2024`
+1. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph. [[Paper]](https://arxiv.org/abs/2307.07697) `ICLR 2024`
+1. StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization. [[Paper]](https://arxiv.org/abs/2410.08815) `ICLR 2025`
 1. ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629.pdf) [[Code]](https://github.com/ysymyth/ReAct) `ICLR 2023`
 1. DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines. [[Paper]](https://arxiv.org/abs/2310.03714) `arXiv 2023`
 1. A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. [[Paper]](https://arxiv.org/abs/2602.03442) `arXiv 2026`
 1. MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning. [[Paper]](https://arxiv.org/abs/2505.20096) `arXiv 2025`
 #### 3.1.2. Context Management
 ##### 3.1.2.1. Context Processing
-1. LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models. `ACL 2023`
+1. LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models. [[Paper]](https://arxiv.org/abs/2310.05736) `ACL 2023`
 1. Compressing Context to Enhance Inference Efficiency of Large Language Models. [[Paper]](https://aclanthology.org/2023.emnlp-main.391.pdf) [[Code]](https://github.com/liyucheng09/Selective_Context) `ACL 2023`
 1. ACON: Optimizing Context Compression for Long-horizon LLM Agents. [[Paper]](https://arxiv.org/pdf/2510.00615) [[Code]](https://github.com/microsoft/acon) `arXiv 2025`
 1. Reducing Cost of LLM Agents with Trajectory Reduction. [[Paper]](https://arxiv.org/abs/2509.23586) `arXiv 2025`
@@ -364,7 +364,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. MemoryBank: Enhancing Large Language Models with Long-Term Memory. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf) [[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) `AAAI 2024`
 1. AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management. [[Paper]](https://arxiv.org/abs/2602.07398) `arXiv 2026`
 1. A-Mem: Agentic Memory for LLM Agents. [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/WujiangXu/A-mem) `NeurIPS 2025`
-1. HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model. `ACL 2025`
+1. HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model. [[Paper]](https://aclanthology.org/2025.acl-long.1575/) `ACL 2025`
 1. Dynamic Affective Memory Management for Personalized LLM Agents. [[Paper]](https://arxiv.org/abs/2510.27418) `arXiv 2025`
 ### 3.2. Agentic Training
 #### 3.2.1. Environment Construction
@@ -389,14 +389,14 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. NeuralOS: Towards Simulating Operating Systems via Neural Generative Models. [[Paper]](https://arxiv.org/abs/2507.08800) `arXiv 2025`
 1. BuilderBench: The Building Blocks of Intelligent Agents. [[Paper]](https://arxiv.org/abs/2510.06288) `arXiv 2025`
 1. MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2506.14990) `arXiv 2025`
-1. Reasoning with Language Model is Planning with World Model. `ACL 2023`
+1. Reasoning with Language Model is Planning with World Model. [[Paper]](https://arxiv.org/abs/2305.14992) `ACL 2023`
 1. Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2602.10090) `arXiv 2026`
 ##### 3.2.1.3. Real-World Environments
 1. WebArena: A Realistic Web Environment for Building Autonomous Agents. [[Paper]](https://arxiv.org/pdf/2307.13854) [[Code]](https://github.com/web-arena-x/webarena) `ICLR 2024`
 1. The BrowserGym Ecosystem for Web Agent Research. [[Paper]](https://arxiv.org/abs/2412.05467) `Trans. Mach. Learn. Res. 2025`
 1. AgentBench: Evaluating LLMs as Agents. [[Paper]](https://arxiv.org/pdf/2308.03688) [[Code]](https://github.com/THUDM/AgentBench) `ICLR 2024`
 1. DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2406.11896) [[Code]](https://github.com/DigiRL-agent/digirl) `NeurIPS 2024`
-1. Digi-Q: Learning VLM Q-Value Functions for Training Device-Control Agents. `ICLR 2025`
+1. Digi-Q: Learning Q-Value Functions for Training Device-Control Agents. [[Paper]](https://arxiv.org/abs/2502.15760) `ICLR 2025`
 1. WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning. [[Paper]](https://arxiv.org/pdf/2411.02337) [[Code]](https://github.com/THUDM/WebRL) `ICLR 2025`
 1. MolmoWeb: Open Visual Web Agent and Open Data for the Open Web. [[Paper]](https://arxiv.org/abs/2604.08516) `arXiv 2026`
 1. EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments. [[Paper]](https://arxiv.org/abs/2602.16179) `arXiv 2026`
@@ -407,22 +407,22 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. PhysiAgent: An Embodied Agent Framework in Physical World. [[Paper]](https://arxiv.org/abs/2509.24524) `arXiv 2025`
 #### 3.2.2. Reward Design
 ##### 3.2.2.1. Outcome-Level Rewards
-1. Outcome-based Reinforcement Learning to Predict the Future. `Trans. Mach. Learn. Res. 2025`
+1. Outcome-based Reinforcement Learning to Predict the Future. [[Paper]](https://arxiv.org/abs/2505.17989) `Trans. Mach. Learn. Res. 2025`
 1. Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2505.01441) `arXiv 2025`
 1. Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving. [[Paper]](https://arxiv.org/abs/2505.07773) `arXiv 2025`
-1. ACECODER: Acing Coder RL via Automated Test-Case Synthesis. `ACL 2025`
-1. Deepcoder: A fully open-source 14b coder at o3-mini level. `Notion Blog 2025`
-1. Deepswe: Training a state-of-the-art coding agent from scratch by scaling rl, 2025. `Notion Blog 2025`
+1. ACECODER: Acing Coder RL via Automated Test-Case Synthesis. [[Paper]](https://arxiv.org/abs/2502.01718) `ACL 2025`
+1. DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level. [[Blog]](https://www.together.ai/blog/deepcoder) `Blog 2025`
+1. DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL. [[Blog]](https://www.together.ai/blog/deepswe) `Blog 2025`
 1. Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2503.09516) `arXiv 2025`
 1. DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments. [[Paper]](https://aclanthology.org/2025.emnlp-main.22/) [[Code]](https://github.com/GAIR-NLP/DeepResearcher) `ACL 2025`
 1. Qwen3 Technical Report. [[Paper]](https://arxiv.org/abs/2505.09388) `arXiv 2025`
 1. TTRL: Test-Time Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2504.16084) `arXiv 2025`
-1. DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search. `ICLR 2025`
+1. DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search. [[Paper]](https://arxiv.org/abs/2408.08152) `ICLR 2025`
 ##### 3.2.2.2. Process-Level Rewards
 1. Let's Verify Step by Step. [[Paper]](https://arxiv.org/abs/2305.20050) [[Code]](https://github.com/openai/prm800k) `ICLR 2024`
 1. Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations. [[Paper]](https://arxiv.org/abs/2312.08935) `ACL 2024`
 1. Improve Mathematical Reasoning in Language Models by Automated Process Supervision. [[Paper]](https://arxiv.org/abs/2406.06592) `arXiv 2024`
-1. GUI-G^2: Gaussian Reward Modeling for GUI Grounding. `AAAI 2026`
+1. GUI-G^2: Gaussian Reward Modeling for GUI Grounding. [[Paper]](https://arxiv.org/abs/2507.15846) `AAAI 2026`
 1. ToolRL: Reward is All Tool Learning Needs. [[Paper]](https://arxiv.org/abs/2504.13958) `arXiv 2025`
 1. Process Reward Models That Think. [[Paper]](https://arxiv.org/abs/2504.16828) [[Code]](https://github.com/mukhal/thinkprm) `Trans. Mach. Learn. Res. 2026`
 #### 3.2.3. Training Optimization Algorithms
@@ -438,10 +438,10 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Immersion in the GitHub Universe: Scaling Coding Agents to Mastery. [[Paper]](https://doi.org/10.48550/arXiv.2602.09892) `arXiv 2026`
 1. ClawGym: A Scalable Framework for Building Effective Claw Agents. [[Paper]](https://arxiv.org/abs/2604.26904) `2026`
 1. Merge-of-Thought Distillation. [[Paper]](https://arxiv.org/abs/2509.08814) `arXiv 2025`
-1. MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models. `ICML 2024`
+1. MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models. [[Paper]](https://proceedings.mlr.press/v235/chen24ah.html) `ICML 2024`
 1. Structured Agent Distillation for Large Language Model. [[Paper]](https://arxiv.org/abs/2505.13820) `arXiv 2025`
 1. On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes. [[Paper]](https://arxiv.org/abs/2306.13649) `ICLR 2024`
-1. MiniLLM: Knowledge Distillation of Large Language Models. `ICLR 2024`
+1. MiniLLM: On-Policy Distillation of Large Language Models. [[Paper]](https://arxiv.org/abs/2306.08543) `ICLR 2024`
 1. Stable On-Policy Distillation through Adaptive Target Reformulation. [[Paper]](https://arxiv.org/abs/2601.07155) `arXiv 2026`
 1. Scaling Reasoning Efficiently via Relaxed On-Policy Distillation. [[Paper]](https://arxiv.org/abs/2603.11137) `arXiv 2026`
 1. Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation. [[Paper]](https://arxiv.org/abs/2602.12125) `arXiv 2026`
@@ -452,14 +452,14 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Secrets of RLHF in Large Language Models Part II: Reward Modeling. [[Paper]](https://arxiv.org/abs/2401.06080) [[Code]](https://github.com/OpenLMLab/MOSS-RLHF) `arXiv 2024`
 1. WARP: On the Benefits of Weight Averaged Rewarded Policies. [[Paper]](https://arxiv.org/abs/2406.16768) `arXiv 2024`
 1. ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL. [[Paper]](https://arxiv.org/abs/2402.19446) [[Code]](https://github.com/YifeiZhou02/ArCHer) `ICML 2024`
-1. VinePPO: Refining Credit Assignment in RL Training of LLMs. `ICML 2025`
+1. VinePPO: Refining Credit Assignment in RL Training of LLMs. [[Paper]](https://arxiv.org/abs/2410.01679) `ICML 2025`
 1. LLM Collaboration with Multi-Agent Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2508.04652) `AAAI 2026`
 1. Direct Preference Optimization: Your Language Model is Secretly a Reward Model. [[Paper]](https://arxiv.org/abs/2305.18290) [[Code]](https://github.com/eric-mitchell/direct-preference-optimization) `NeurIPS 2023`
 1. KTO: Model Alignment as Prospect Theoretic Optimization. [[Paper]](https://arxiv.org/abs/2402.01306) [[Code]](https://github.com/ContextualAI/HALOs) `arXiv 2024`
 1. SimPO: Simple Preference Optimization with a Reference-Free Reward. [[Paper]](https://arxiv.org/abs/2405.14734) [[Code]](https://github.com/princeton-nlp/SimPO) `NeurIPS 2024`
 1. ORPO: Monolithic Preference Optimization without Reference Model. [[Paper]](https://arxiv.org/abs/2403.07691) [[Code]](https://github.com/xfactlab/orpo) `ACL 2024`
 1. DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models. [[Paper]](https://arxiv.org/abs/2402.03300) [[Code]](https://github.com/deepseek-ai/DeepSeek-Math) `arXiv 2024`
-1. ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models. `ICML 2024`
+1. ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models. [[Paper]](https://proceedings.mlr.press/v235/li24cd.html) `ICML 2024`
 1. RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2504.20073) [[Code]](https://github.com/RAGEN-AI/RAGEN) `arXiv 2025`
 1. Group-in-Group Policy Optimization for LLM Agent Training. [[Paper]](https://arxiv.org/abs/2505.10978) [[Code]](https://github.com/langfengQ/verl-agent) `arXiv 2025`
 1. Tree Search for LLM Agent Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2509.21240) `arXiv 2025`
@@ -487,7 +487,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent. [[Paper]](https://arxiv.org/abs/2511.16108) [[Code]](https://github.com/NovaSky-AI/SkyRL) `arXiv 2025`
 ##### 3.2.4.2. Specialized Frameworks
 1. Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems. [[Paper]](https://arxiv.org/abs/2602.08847) `arXiv 2026`
-1. marti zhang iclr 2026. `ICLR 2026`
+1. MARTI: A Framework for Multi-Agent LLM Systems Reinforced Training and Inference. [[Paper]](https://openreview.net/forum?id=E7jZqo0A50) `ICLR 2026`
 1. LLM Collaboration with Multi-Agent Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2508.04652) `AAAI 2026`
 1. WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2602.04634) `arXiv 2026`
 1. GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2604.02721) `arXiv 2026`
@@ -539,7 +539,7 @@ This section summarizes the major evaluation domains for agentic harness enginee
 1. ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models. [[Paper]](https://arxiv.org/abs/2601.11404) `arXiv 2026`
 1. ST4VLA: Spatially Guided Training for Vision-Language-Action Models. [[Paper]](https://arxiv.org/abs/2602.10109) `arXiv 2026`
 1. RoboAgent: Chaining Basic Capabilities for Embodied Task Planning. [[Paper]](https://arxiv.org/abs/2604.07774) `2026`
-1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents. `ICML 2025`
+1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents. [[Paper]](https://arxiv.org/abs/2502.09560) `ICML 2025`
 1. AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents. [[Paper]](https://arxiv.org/abs/2503.18666) `arXiv 2025`
 ### 5.6. Evaluation
 1. BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents. [[Paper]](https://arxiv.org/abs/2602.12876) `arXiv 2026`
