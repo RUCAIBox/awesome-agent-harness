@@ -13,7 +13,7 @@
 </p>
 
 A curated collection of papers and resources related to **Agent Systems with Harness Engineering: A Systematic Survey**.
-This repository refers to our survey [<u>"Agent Systems with Harness Engineering: A Systematic Survey"</u>](#7-citation).
+This repository refers to our survey [<u>"Agent Systems with Harness Engineering: A Systematic Survey(coming soon)"</u>](#7-citation).
 
 ## Table of Contents
 
