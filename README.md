@@ -167,15 +167,15 @@ A curated list of papers and resources on agent systems with harness engineering
 
 ##### Unstructured Memory
 1. MemGPT: Towards LLMs as Operating Systems. [[Paper]](https://arxiv.org/pdf/2310.08560) [[Code]](https://research.memgpt.ai/) `arXiv 2023`
-1. MemoryBank: Enhancing Large Language Models with Long-Term Memory. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf) [[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) `AAAI 2024`
 1. Reflexion: language agents with verbal reinforcement learning. [[Paper]](https://arxiv.org/abs/2303.11366) [[Code]](https://github.com/noahshinn/reflexion) `NeurIPS 2023`
-1. MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents. [[Paper]](https://arxiv.org/abs/2506.15841) [[Code]](https://github.com/MIT-MI/MEM1) `ICLR 2026`
-1. MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent. [[Paper]](https://arxiv.org/abs/2507.02259) [[Code]](https://github.com/BytedTsinghua-SIA/MemAgent) `ICLR 2026`
+1. MemoryBank: Enhancing Large Language Models with Long-Term Memory. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf) [[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) `AAAI 2024`
 1. Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning. [[Paper]](https://doi.org/10.48550/arXiv.2508.19828) [[Code]](https://github.com/yansikuan/memory-r1/) `arXiv 2025`
 1. MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues. [[Paper]](https://doi.org/10.48550/arXiv.2509.11860) `arXiv 2025`
 1. O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[Paper]](https://arxiv.org/abs/2511.13593) `arXiv 2025`
 1. General Agentic Memory Via Deep Research. [[Paper]](https://arxiv.org/abs/2511.18423) `arXiv 2025`
 1. Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory. [[Paper]](https://arxiv.org/abs/2511.20857) [[Code]](https://github.com/zhaosnw/evo_mem) `arXiv 2025`
+1. MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents. [[Paper]](https://arxiv.org/abs/2506.15841) [[Code]](https://github.com/microsoft/MEM1) `ICLR 2026`
+1. MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent. [[Paper]](https://arxiv.org/abs/2507.02259) [[Code]](https://github.com/BytedTsinghua-SIA/MemAgent) `ICLR 2026`
 1. RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback. [[Paper]](https://arxiv.org/abs/2603.08561) `arXiv 2026`
 1. Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[Paper]](https://doi.org/10.48550/arXiv.2601.01885) `arXiv 2026`
 1. Mem0: Universal Memory Layer for AI Agents. [[Code]](https://github.com/mem0ai/mem0) `Repo 2026`
@@ -213,8 +213,8 @@ A curated list of papers and resources on agent systems with harness engineering
 1. OS-Copilot: Towards Generalist Computer Agents with Self-Improvement. [[Paper]](https://arxiv.org/abs/2402.07456) [[Code]](https://github.com/OS-Copilot/OS-Copilot) `ICLR 2024`
 1. SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience. [[Paper]](https://arxiv.org/pdf/2508.04700.pdf) [[Code]](https://github.com/SunzeY/SEAgent) `arXiv 2025`
 1. Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration. [[Paper]](https://arxiv.org/pdf/2410.18076.pdf) [[Code]](https://github.com/rail-berkeley/SUPE) `ICML 2025`
-1. Toward Training Superintelligent Software Agents through Self-Play SWE-RL. [[Paper]](https://arxiv.org/abs/2512.18552) [[Code]](https://github.com/hehamalainen/SWE-RL-) `ICML 2026`
 1. Reinforcement Learning for Self-Improving Agent with Skill Library. [[Paper]](https://arxiv.org/abs/2512.17102) [[Code]](https://github.com/amazon-science/SAGE) `arXiv 2025`
+1. Toward Training Superintelligent Software Agents through Self-Play SWE-RL. [[Paper]](https://arxiv.org/abs/2512.18552) [[Code]](https://github.com/hehamalainen/SWE-RL-) `ICML 2026`
 1. Evolving Programmatic Skill Networks. [[Paper]](https://doi.org/10.48550/arXiv.2601.03509) `arXiv 2026`
 1. SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning. [[Paper]](https://arxiv.org/pdf/2602.08234.pdf) [[Code]](https://github.com/aiming-lab/SkillRL) `ICLR 2026 Workshop`
 1. Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data. [[Paper]](https://arxiv.org/abs/2602.21320) `arXiv 2026`
@@ -289,8 +289,6 @@ A curated list of papers and resources on agent systems with harness engineering
 1. Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents. [[Paper]](https://arxiv.org/abs/2504.00906) [[Code]](https://github.com/JaYzZ/Agent-S2) `COLM 2025`
 1. MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs. [[Paper]](https://aclanthology.org/2025.findings-acl.259.pdf) [[Code]](https://github.com/Xtra-Computing/MegaAgent) `Findings of ACL 2025`
 1. Multi-Agent Collaboration via Evolving Orchestration. [[Paper]](https://arxiv.org/abs/2505.19591) [[Code]](https://github.com/OpenBMB/ChatDev/tree/puppeteer) `NeurIPS 2025`
-1. How We Built Our Multi-Agent Research System. [[Blog]](https://www.anthropic.com/engineering/multi-agent-research-system) `Blog 2025`
-1. Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems. [[Paper]](https://arxiv.org/abs/2604.03295) `arXiv 2026`
 
 ##### Decentralized Architectures
 1. CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society. [[Paper]](https://proceedings.neurips.cc/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html) [[Code]](https://github.com/camel-ai/camel) `NeurIPS 2023`
@@ -301,7 +299,6 @@ A curated list of papers and resources on agent systems with harness engineering
 1. AgentOrchestra: Orchestrating Multi-Agent Intelligence with the Tool-Environment-Agent(TEA) Protocol. [[Paper]](https://doi.org/10.48550/arXiv.2506.12508) `arXiv 2025`
 1. LLM-Driven Multi-Agent Architectures for Intelligent Self-Organizing Networks. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11169757/) `IEEE Network 2025`
 1. Building a C Compiler with a Team of Parallel Claudes. [[Blog]](https://www.anthropic.com/engineering/building-c-compiler) `Blog 2026`
-1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Blog]](https://claude.com/blog/multi-agent-coordination-patterns) `Blog 2026`
 
 #### 2.4.2. Communication Mechanisms
 
@@ -332,9 +329,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. InstructFlow: Adaptive Symbolic Constraint-Guided Code Generation for Long-Horizon Planning. [[Paper]](https://openreview.net/forum?id=nzwjvpCO4F) [[Code]](https://github.com/chiht21/InstructFlow) `NeurIPS 2025`
 1. How and When to Build Multi-Agent Systems. [[Blog]](https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems) `Blog 2025`
 1. Don't Build Multi-Agents. [[Blog]](https://cognition.ai/blog/dont-build-multi-agents) `Blog 2025`
-1. How We Built Our Multi-Agent Research System. [[Blog]](https://www.anthropic.com/engineering/multi-agent-research-system) `Blog 2025`
 1. Toward Autonomous Long-Horizon Engineering for ML Research. [[Paper]](https://arxiv.org/abs/2604.13018) `arXiv 2026`
-1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Blog]](https://claude.com/blog/multi-agent-coordination-patterns) `Blog 2026`
 
 ## 3. Model Adaptation for Harness
 ### 3.1. Context Engineering
