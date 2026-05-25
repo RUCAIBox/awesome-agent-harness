@@ -14,7 +14,7 @@
 </p>
 
 A curated list of papers and resources on agent systems with harness engineering, based on our survey:<br>
-[<u>"Agent Systems with Harness Engineering: A Systematic Survey"</u>](./paper/Agent_Systems_with_Harness_Engineering__A_Systematic_Survey.pdf).
+[<u>"Agent Systems with Harness Engineering"</u>](./paper/Agent_Systems_with_Harness_Engineering__A_Systematic_Survey.pdf).
 
 <p align="center">
   <img src="./figures/timeline-v9.png" alt="Timeline of agent systems with harness engineering" width="100%">
