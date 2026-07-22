@@ -346,6 +346,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. How and When to Build Multi-Agent Systems. [[Blog]](https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems) `Blog 2025`
 1. Don't Build Multi-Agents. [[Blog]](https://cognition.ai/blog/dont-build-multi-agents) `Blog 2025`
 1. Toward Autonomous Long-Horizon Engineering for ML Research. [[Paper]](https://arxiv.org/abs/2604.13018) `arXiv 2026`
+1. Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy. [[Paper]](https://arxiv.org/abs/2606.24177) [[Code]](https://github.com/AutoResearch-Factory/Agon) `arXiv 2026`
 
 ## 3. Model Adaptation for Harness
 ### 3.1. Context Engineering
@@ -680,6 +681,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis. [[Paper]](https://arxiv.org/abs/2604.02022) `arXiv 2026`
 1. AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems. [[Paper]](https://arxiv.org/abs/2602.11510) `arXiv 2026`
 1. Benchmark Test-Time Scaling of General LLM Agents. [[Paper]](https://arxiv.org/abs/2602.18998) `arXiv 2026`
+1. PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. [[Paper]](https://arxiv.org/abs/2606.08878) [[Code]](https://github.com/WhymustIhaveaname/PerspectiveGap) `arXiv 2026`
 
 ## Citation
 
