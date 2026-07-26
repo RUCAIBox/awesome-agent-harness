@@ -616,6 +616,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents. [[Paper]](https://doi.org/10.48550/arXiv.2507.19478) [[Code]](https://github.com/open-compass/MMBench-GUI) `arXiv 2025`
 1. Osworld-mcp: Benchmarking mcp tool invocation in computer-use agents. [[Paper]](https://arxiv.org/pdf/2510.24563) [[Code]](https://github.com/X-PLUG/OSWorld-MCP) `ICLR 2026`
 1. VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks. [[Paper]](https://doi.org/10.48550/arXiv.2512.16501) [[Code]](https://github.com/inclusionAI/UI-Venus/tree/VenusBench-GD) `arXiv 2025`
+1. ClawBench: Can AI Agents Complete Everyday Online Tasks? [[Paper]](https://arxiv.org/abs/2604.08523) [[Project]](https://claw-bench.com/) [[Code]](https://github.com/reacher-z/ClawBench) `arXiv 2026`
 
 ### 4.5. ML Engineering and Scientific Research
 1. DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation. [[Paper]](https://arxiv.org/pdf/2211.11501) [[Code]](https://github.com/xlang-ai/DS-1000) `ICML 2023`
