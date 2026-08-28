@@ -681,6 +681,10 @@ A curated list of papers and resources on agent systems with harness engineering
 1. AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems. [[Paper]](https://arxiv.org/abs/2602.11510) `arXiv 2026`
 1. Benchmark Test-Time Scaling of General LLM Agents. [[Paper]](https://arxiv.org/abs/2602.18998) `arXiv 2026`
 
+### 5.7. Practitioner references
+
+1. [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) — Source-backed, Agent-first operational guides for the DeepSeek Harness runtime, including session persistence, plugin/MCP boundaries, sandboxing, evaluation, troubleshooting, and a pinned ecosystem resource map.
+
 ## Citation
 
 If you find our paper useful for your research, please consider citing the paper and starring this repository.
