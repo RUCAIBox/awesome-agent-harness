@@ -532,6 +532,8 @@ A curated list of papers and resources on agent systems with harness engineering
 1. ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering. [[Paper]](https://openreview.net/forum?id=AEgyitdRWf) `arXiv 2025`
 1. ACT: Agentic Critical Training. [[Paper]](https://arxiv.org/abs/2603.08706) `arXiv 2026`
 
+1. Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report. [[Paper]](https://arxiv.org/abs/2608.15763) `arXiv 2026`
+
 #### 3.2.4. Infrastructure
 
 ##### General-Purpose Frameworks
