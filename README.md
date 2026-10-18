@@ -198,6 +198,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. OpenMemory: AI Memory MCP Server for Coding Agents. [[Website]](https://mem0.ai/openmemory) `Web 2026`
 1. Memory - Docs by LangChain. [[Docs]](https://docs.langchain.com/oss/python/deepagents/memory) `Docs 2026`
 1. Context Engineering: Memory, Compaction, and Tool Clearing. [[Docs]](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools) `Docs 2026`
+1. MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning. [[Paper]](https://arxiv.org/abs/2601.21468) [[Code]](https://github.com/meituan/MemOCR) `ICML 2026`
 
 ### 2.3. Skill Libraries
 1. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. [[Paper]](https://arxiv.org/abs/2602.12670) [[Code]](https://github.com/benchflow-ai/skillsbench) `arXiv 2026`
